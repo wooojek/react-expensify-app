@@ -25,10 +25,10 @@ npm run dev-server
 npm test
 ```
 
-or
+or to watch for changes
 
 ```
-npm test --watch-all
+npm test -- --watchAll
 ```
 
 ## Deployment
