@@ -22,6 +22,7 @@
     "babel-preset-react": "^6.24.1",
     "express": "^4.16.4",
     "firebase": "^5.8.5",
+    "history": "^4.7.2",
     "live-server": "^1.2.1",
     "moment": "^2.22.2",
     "nodemon": "^1.17.4",
